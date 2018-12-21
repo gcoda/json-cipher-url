@@ -1,0 +1,16 @@
+{
+  "name": "json-cipher-url",
+  "version": "0.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base-x": "^3.0.5",
+    "json-cipher": "0.0.1"
+  }
+}
