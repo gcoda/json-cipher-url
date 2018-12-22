@@ -15,6 +15,6 @@
   "license": "ISC",
   "dependencies": {
     "base-x": "^3.0.5",
-    "json-cipher": "0.0.1"
+    "json-cipher": "0.0.3"
   }
 }
