@@ -1,6 +1,6 @@
 {
   "name": "json-cipher-url",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Base62 URL Safe encrypted json",
   "repository": {
     "type": "git",
